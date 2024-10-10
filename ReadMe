@@ -1,18 +1,18 @@
 ### 実行手順
 クローン後
 
-`cd ./giracle-fullstack-project`
+` cd ./giracle-fullstack-project `
 
-`git clone https://github.com/NfoAlex/giracle-backend`
+` git clone https://github.com/NfoAlex/giracle-backend `
 
-`git clone  https://github.com/ayok01/giracle-frontend`
+` git clone  https://github.com/ayok01/giracle-frontend `
 
-`docker compose build`
+` docker compose build`
 
 ### 通常実行
-`docker compose up`
+` docker compose up `
 
 ### ホットリロード実行
-`docker compose watch `
+` docker compose watch `
 
-`https://localhost/`
+` https://localhost/ `
