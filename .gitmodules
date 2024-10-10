@@ -1,0 +1,7 @@
+[submodule "giracle-backend"]
+    path = giracle-backend
+    url = https://github.com/NfoAlex/giracle-backend
+
+[submodule "giracle-frontend"]
+    path = giracle-frontend
+    url = https://github.com/ayok01/giracle-frontend
